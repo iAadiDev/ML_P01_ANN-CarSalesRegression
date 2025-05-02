@@ -43,7 +43,7 @@ ML_P01_ANN-CarSalesRegression/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<iAadiDev>/ML_P01_ANN-CarSalesRegression.git
+git clone https://github.com/iAadiDev/ML_P01_ANN-CarSalesRegression.git
 cd ML_P01_ANN-CarSalesRegression
 ```
 
